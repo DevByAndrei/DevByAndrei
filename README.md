@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on building a full-stack project management app with Java, Svelte, and Tailwind.  <br>🤝 I’m looking to collaborate on open-source web development projects and Java-based tools.  <br>👐 I’m looking for help with learning advanced backend architectures, React, and Python.  <br>🌱 I’m currently learning Spring Boot, REST APIs, React, and modern frontend frameworks like SvelteKit.  <br>💬 Ask me about Java, web development, UX/UI design, or project organization.  <br>⚡ Fun fact: I once coded a simple game in Java in one night just for fun!<br>
+🔭 I’m currently working on building a full-stack project management app with Java, React, and Tailwind.  <br>🤝 I’m looking to collaborate on open-source web development projects and Java-based tools.  <br>👐 I’m looking for help with learning advanced backend architectures, React, and Python.  <br>🌱 I’m currently learning Spring Boot, REST APIs, React, and modern frontend frameworks like SvelteKit.  <br>💬 Ask me about Java, web development, UX/UI design, or project organization.  <br>⚡ Fun fact: I once coded a simple game in Java in one night just for fun!<br>
 
 
 ## 🌐 Socials:
